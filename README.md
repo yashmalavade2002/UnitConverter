@@ -52,5 +52,4 @@ A simple Android application that allows users to convert weights from kilograms
 
 ### Screenshots 📸
 
-![App Screenshot 1](path-to-screenshot)
-![App Screenshot 2](path-to-screenshot)
+![App Screenshot 1](https://github.com/yashmalavade2002/UnitConverter/blob/2297164ef1f7731e0a0d9f615343de8dcf6caed3/Screenshot_20250104_165751.png)
